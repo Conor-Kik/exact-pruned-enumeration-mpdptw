@@ -37,7 +37,7 @@ MATH3205_MPDPTW_Project/
 │   └── mpdptw/
 │       ├── common/                 # IO utilities, preprocessing, helpers
 │       └── methods/
-│           └──\col_generation      #a-priori column generation solver
+│           └──col_generation/      #a-priori column generation solver
 │               └── multi_thread_route_generation.py 
 │
 ├── mpdtw_instances_2019/           # Benchmark instance files
