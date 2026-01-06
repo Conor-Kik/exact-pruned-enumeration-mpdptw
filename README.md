@@ -46,8 +46,6 @@ MATH3205_MPDPTW_Project/
 └── README.txt
 ```
 
-Note: although the directory name references “col_gen”, the implementation corresponds to the PRE-SP algorithm described in the manuscript.
-
 ---
 
 ## Running the Solver (CLI)
