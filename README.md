@@ -79,7 +79,7 @@ python cli.py col_gen w_8_100_4.txt --mt --cap
 
 This solver has been evaluated on the 120 classical MPDPTW benchmarks and additional 200-node synthetic instances.
 
-Key outcomes reported in the manuscript:
+Key outcomes reported:
 - Solves 116 / 120 benchmark instances to proven optimality
 - Particularly strong on wide and weakly structured time-window cases (W-type) where classical MIP approaches struggle
 - Successfully solves multiple 200-node instances, demonstrating scalability when structural pruning is effective
