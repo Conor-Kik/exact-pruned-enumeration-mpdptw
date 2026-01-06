@@ -37,8 +37,8 @@ MATH3205_MPDPTW_Project/
 │   └── mpdptw/
 │       ├── common/                 # IO utilities, preprocessing, helpers
 │       └── methods/
-│           └── pre_sp/             # PRE-SP solver implementation
-│               └── ColGenSolver.py # (legacy naming, contains PRE-SP core logic)
+│           └──\col_generation      #a-priori column generation solver
+│               └── multi_thread_route_generation.py 
 │
 ├── mpdtw_instances_2019/           # Benchmark instance files
 ├── docs/                           # Report, figures, and results
